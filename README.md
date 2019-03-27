@@ -1,2 +1,2 @@
 # Hypothetic-Twitter-application
-Develop a console based hypothetic Twitter application in C++ programming language
+A console based hypothetic Twitter application in C++ programming language
